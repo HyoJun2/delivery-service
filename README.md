@@ -70,4 +70,6 @@
 ## 설정 페이지 추가
 - setting.md 추가
 
+## 네비게이터 추가
+- navigatior.md 추가
 
